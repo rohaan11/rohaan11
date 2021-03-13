@@ -55,16 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          1 hr 3 mins     █████████▒░░░░░░░░░░░░░░░   37.90 % 
-JavaScript   41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
-Other        21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-JSX          19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-```
-<!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
